@@ -19,8 +19,8 @@ A = [3,2,1,0,4] 不能跳跃到最后一个下标，输出false。
 ## 实现
 
 ```cpp
-//The code bellow is only for algorithm testing and contains *no* comments.  Some parts are *not* suitable for projects.
-//Copy is *not* allowed.
+//The sample code is only for algorithm testing therefore contains no comments and not suitable for real-world projects.
+//Copy is NOT allowed.
 
 
 #include <iostream>
